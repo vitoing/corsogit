@@ -1,2 +1,3 @@
 Another file created in feature1
 This file has been modified locally
+This file has been modified locally on feature3
